@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML/Untitled.md",
+                "file": "AIML/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Python"
             }
           }
         ]
@@ -164,9 +164,10 @@
   },
   "active": "a8c6058cf418a364",
   "lastOpenFiles": [
-    "README.md",
-    "AIML/Python.md",
     "AIML/Untitled.md",
+    "AIML/Python.md",
+    "Untitled",
+    "README.md",
     "Python.md",
     "AIML"
   ]
