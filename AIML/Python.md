@@ -1,3 +1,3 @@
-1 ) install python and Run first program
-2) setup conda environment
-3) 
+
+1) setup conda environment
+2) start with basics 
